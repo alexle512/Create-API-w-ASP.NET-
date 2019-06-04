@@ -1,0 +1,14 @@
+/Users/alexle/Downloads/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/alexle/Downloads/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/alexle/Downloads/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/alexle/Downloads/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/alexle/Downloads/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/alexle/Downloads/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
